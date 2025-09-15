@@ -2,7 +2,7 @@
 
 Projeto de extensão desenvolvido na **Universidade Estácio de Sá**, com o objetivo de monitorar **temperatura e umidade em tempo real** em um Data Center, utilizando **ESP32, sensores e plataformas IoT**.
 
-## 📌 Objetivo
+## 🎯 Objetivo
 Monitorar as condições ambientais de um Data Center (temperatura e umidade) em tempo real, prevenindo falhas nos sistemas de refrigeração e possíveis danos aos equipamentos.
 
 ## 🛠️ Tecnologias Utilizadas
@@ -30,6 +30,17 @@ Monitorar as condições ambientais de um Data Center (temperatura e umidade) em
 - **ThingSpeak**: gráficos de temperatura e umidade.
 - **Blynk App**: gauge e notificações push.
 - **Alertas**: WhatsApp/Telegram via Callmebot.
+
+## 📱 Imagens do Projeto
+
+![Área Data Center](docs/prints/AreaDataCenter.png) 
+![Dispositivo Instalado](docs/prints/DispositivoInstalado.png)
+![Visualização Blynk](docs/prints/VisualizaçãoBlynk.png) 
+![Visualização Mobile Blynk](docs/prints/VisualizaçãoMobileBlynk.png)
+
+## 📄 Documentos do Projeto
+- [Projeto Completo (pdf)](docs/Projeto_extensão_iot.pdf)
+- [Banner de Apresentação (png)](docs/Banner.png)
 
 ## 📜 Licença
 Este projeto é de uso **educacional** e está licenciado sob a licença MIT.  

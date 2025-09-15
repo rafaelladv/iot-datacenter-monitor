@@ -33,10 +33,9 @@ Monitorar as condições ambientais de um Data Center (temperatura e umidade) em
 
 ## 📱 Imagens do Projeto
 
-![Área Data Center](docs/print/Area_DataCenter.jpg) 
-![Dispositivo Instalado](docs/print/DispositivoInstalado.png)
-![Visualização Blynk](docs/print/VisualizaçãoBlynk.png) 
-![Visualização Mobile Blynk](docs/print/VisualizaçãoMobileBlynk.png)
+![Dispositivo Instalado](Arduino/docs/print/DispositivoInstalado.png)
+![Visualização Mobile Blynk](Arduino/docs/print/VisualizaçãoMobileBlynk.png)
+![Visualização Blynk](Arduino/docs/print/VisualizaçãoBlynk.png) 
 
 ## 📄 Documentos do Projeto
 - [Projeto Completo (pdf)](docs/Projeto_extensão_iot.pdf)

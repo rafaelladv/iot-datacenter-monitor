@@ -33,7 +33,7 @@ Monitorar as condições ambientais de um Data Center (temperatura e umidade) em
 
 ## 📱 Imagens do Projeto
 
-![Área Data Center](docs/print/AreaDataCenter.jpg) 
+![Área Data Center](docs/print/Area_DataCenter.jpg) 
 ![Dispositivo Instalado](docs/print/DispositivoInstalado.png)
 ![Visualização Blynk](docs/print/VisualizaçãoBlynk.png) 
 ![Visualização Mobile Blynk](docs/print/VisualizaçãoMobileBlynk.png)
